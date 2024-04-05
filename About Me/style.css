@@ -1,0 +1,117 @@
+body {
+	background: url('https://media.istockphoto.com/id/1456370827/vector/programmer-workplace-with-coding-in-computer-and-laptop-lamp-cactus-and-notebook-nearby.jpg?s=170667a&w=0&k=20&c=igTthUkcwSb0X3Pd24V5pPd6DiKvzx-3z0t-IF6GDFQ=');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+.firsttext h2 {
+	padding: 20px;
+	border: solid;
+	border-radius: 3px;
+	border-color: lightblue;
+	background-color: #372778;
+	width: 300px;
+	height: 210px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.secondtext h2 {
+	padding: 20px;
+	border: solid;
+	border-radius: 3px;
+	border-color: lightblue;
+	background-color: #372778;
+	width: 300px;
+	height: 210px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.thirdtext h2 {
+	padding: 20px;
+	border: solid;
+	border-radius: 3px;
+	border-color: lightblue;
+	background-color: #372778;
+	width: 300px;
+	height: 265px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.fourthtext h2 {
+	padding: 20px;
+	border: solid;
+	border-radius: 3px;
+	border-color: lightblue;
+	background-color: #372778;
+	width: 800px;
+	height: 450px;
+	color: white;
+	font-family: sans-serif;
+	position: relative;
+	left: 500px;
+	top: -885px;
+}
+
+.firstphoto img {
+width: 600px;
+position: relative;
+left: 745px;
+top: -890px;
+}
+
+.secondphoto img {
+	width: 350px;
+
+position: relative;
+left: 370px;
+top: -1231px;
+}
+
+.thirdphoto img {
+	width: 348px;
+
+position: relative;
+left: 00px;
+top: -1210px;
+}
+
+.fourthphoto img {
+	width: 348px;
+
+position: relative;
+left: 370px;
+top: -1499px;
+}
+
+.fifthphoto img {
+	width: 570px;
+position: relative;
+left: 774px;
+top: -1721px;
+}
+
+.sixthphoto img {
+	width: 348px;
+position: relative;
+left: 00px;
+top: -1740px;
+}
+
+.vid a {
+	text-decoration: none;
+	color: white;
+    font-family: sans-serif;
+    font-size: 60px;
+    position: relative;
+    top: -1700px;
+    left: 380px;
+}
+
+.button a {
+	background-color: #372778;
+}

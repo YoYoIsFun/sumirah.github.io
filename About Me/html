@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Sumirah's Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+
+
+
+		
+<div class="firsttext">
+	<h2>
+		In my spare time i enjoy to cook, play games, do leetcode, listen to music, and continue to expand my knowledge on programming languages.
+
+	</h2>
+	
+</div>
+
+<div class="secondtext">
+	<h2>
+		I have a few credentials from FabFolio consisting of 3D printing (certified), soldering, visual programming, and micro bit. But i plan on getting even more soon!
+	</h2>
+</div>
+
+<div class="thirdtext">
+	<h2>
+		The color schemes of my project was mainly based on the background image i used (of course i think they are nice), and the pictures are based off of my interest as you can see and to help give a visual idea of what i‘m talking about.
+	</h2>
+</div>
+
+<div class="fourthtext">
+		<h2>
+		I’ve always had a big interest in Tech and my only real exposure to it at that time was gaming. So when i finally got a hold of the internet, i started researching more about it and even got a book on C and C++ ; I even started using Unreal Engine to create simple shooter games. But now things have changed and my interest has shifted from gaming to coding in HTML and CSS, but i aspire to be a Software Engineer (or developer). But a very big contribute to me wanting to be a Software Engineer now is because of a movie i watched called “The Social Network” I loved seeing the problem solving, programming languages, and discussion of algorithms by some of the characters. Seeing them create something and for it to become so big and still relevant today was mesmerizing to me. This caused me to delve deeper and do more research on computer science and software engineering. Even though i’ve already stated what the purpose of this Portfolio was, I also want to add that it is also to work on my planning and designing skills (and coding/programming!).
+	</h2>
+		</div>
+
+<div class="firstphoto">
+	<img src="https://m.media-amazon.com/images/S/pv-target-images/be2840ef36f2b03b421e464207d33f462418caf42a025cecb5f7055c244193df.jpg">
+<div class="secondphoto">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGvbU9SsnrqSSd5X_QrkF7wZ96Y6nZvL9xHw&s">
+</div>
+<div class="thirdphoto">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-r5Xf0pOtB3oJsJrvI9K4s5ho7qNpxWkjmETeIg5HA&s">
+</div>
+
+<div class="fourthphoto">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKe4C3vfgVzqBMEKFFAd0x7bLfccn07B1ig&s">
+</div>
+
+<div class="fifthphoto">
+	<img src="https://images.ctfassets.net/skvkiv2kg4h0/aeSMfrcEd0SP1mEk0WYVE/9156b2596cd65d90da0ea2e32641252e/intro-html-css.jpg?w=534&h=300&fl=progressive&q=50&fm=jpg">
+</div>
+
+<div class="sixthphoto">
+	<img src="https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg">
+</div>
+
+
+<div class="vid">
+    <b><button><a href="https://www.youtube.com/watch?v=lB95KLmpLR4" target="_blank">Watch the video</a></button>
+    </b>
+</div>
+
+</body>
+</html>
